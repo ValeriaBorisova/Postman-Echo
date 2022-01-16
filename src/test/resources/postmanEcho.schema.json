@@ -8,7 +8,7 @@
   "properties": {
     "data": {
       "type": "string",
-      "minLength": 93,
+      "minLength": 9,
       "maxLength": 99
     },
     "headers": {
