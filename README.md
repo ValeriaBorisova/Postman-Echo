@@ -16,3 +16,9 @@ Task №3 - Postman Echo
 * Создан ```Status Badge``` в проекте AppVeyor
 * Проведена проверка фактического отбражения ```Status Badge``` путем принудительного падения теста
 * В файл README.md размещен код для ```Status Badge```
+
+___________________________________
+
+Результаты фактической проверки ```Status Badge``` - сборки CI:
+
+```https://ci.appveyor.com/project/ValeriaBorisova/postman-echo/history```
